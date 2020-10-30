@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Creative_Softwares_Task_Creative_Softwares_TaskUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Creative_Softwares_Task_Creative_Softwares_TaskUITests
+@end

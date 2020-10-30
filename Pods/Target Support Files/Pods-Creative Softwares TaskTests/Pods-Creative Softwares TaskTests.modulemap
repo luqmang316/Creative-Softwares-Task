@@ -1,0 +1,6 @@
+framework module Pods_Creative_Softwares_TaskTests {
+  umbrella header "Pods-Creative Softwares TaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
